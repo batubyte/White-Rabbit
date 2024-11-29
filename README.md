@@ -2,8 +2,7 @@
 **All-in-One Ethical Hacking Tool**  
 
 ## Images
-![image](https://github.com/user-attachments/assets/516eddb2-ace2-4d98-a6c0-6871bbfe4aa4)
-
+![image](https://github.com/user-attachments/assets/7481112f-1fca-425c-b6b6-719377ca2959)
 
 ## Installation  
 ```bash
