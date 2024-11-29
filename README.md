@@ -1,4 +1,4 @@
-# White Rabbit 🐇  
+# White Rabbit 🐇 (not finished)
 **All-in-One Ethical Hacking Tool**  
 
 ## Features  
