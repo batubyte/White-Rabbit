@@ -1,7 +1,6 @@
 # White Rabbit 🐇 (not finished)
 **All-in-One Ethical Hacking Tool**  
 
-## Images
 ![image](https://github.com/user-attachments/assets/7481112f-1fca-425c-b6b6-719377ca2959)
 
 ## Installation  
