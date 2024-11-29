@@ -1,9 +1,9 @@
 # White Rabbit 🐇 (not finished)
 **All-in-One Ethical Hacking Tool**  
 
-## Features  
-- **Port Scanner:** Quickly and efficiently scan open ports on a target system.  
-- **Packet Sniffer:** Monitor and capture network packets for traffic analysis.  
+## Images
+![image](https://github.com/user-attachments/assets/516eddb2-ace2-4d98-a6c0-6871bbfe4aa4)
+
 
 ## Installation  
 ```bash
