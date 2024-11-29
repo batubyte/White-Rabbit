@@ -1,5 +1,5 @@
 # White Rabbit 🐇  
-**An All-in-One Ethical Hacking Tool**  
+**All-in-One Ethical Hacking Tool**  
 
 ## Features  
 - **Port Scanner:** Quickly and efficiently scan open ports on a target system.  
